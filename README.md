@@ -126,7 +126,14 @@ int main() {
 
 int ev;
 ```
+## OUTPUT:
+### CODE 1:
+![Screenshot 2024-08-02 121558](https://github.com/user-attachments/assets/c14dfb1a-2453-47c8-9785-af6e3dcc1378)
+### CODE 2:
+![Screenshot 2024-08-02 121625](https://github.com/user-attachments/assets/e3a1a9d7-05cb-4e41-a22c-cfed1a49c52f)
+
 ## Conclusion
+
 ### Code 1: Data Type Sizes
 This C++ program demonstrates the sizes of various data types (int, float, char, short int, double) using the sizeof operator to understand memory usage.
 
